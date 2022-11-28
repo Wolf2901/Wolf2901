@@ -1,11 +1,11 @@
 
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Silent Smile | [![Profile Views](https://gpvc.arturio.dev/TheTeamAlexa)](https://github.com/TheTeamAlexa)
-   [![Wolf2901](https://github-stats-alpha.vercel.app/api?username=Wolf2901 "Wolf2901")](https://github-stats-alpha.vercel.app/api?username=Wolf2901 "Wolf2901"")
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Silent Smile | [![Profile Views](https://gpvc.arturio.dev/Wolf2901)](https://github.com/Wolf2901)
+   [![Wolf2901](https://github-stats-alpha.vercel.app/api?username=Wolf2901 "Wolf2901")](https://github-stats-alpha.vercel.app/api?username=Wolf2901 "Wolf2901")
 
 ## 📊 &nbsp;Status
 
 <p align="center">
-  <a href="https://t.me/Dr_Asad_Ali"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></a>
+  <a href="https://t.me/Silent_Smile_04"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></a>
     </p>
 <p align="center">
     <img
@@ -34,12 +34,13 @@ You can use the website to generate badges: https://shields.io/
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-| <a href="https://t.me/Wolf2901"><img src="(https://te.legra.ph/file/18149587e5ffa19a19b33.jpg)" width="700px" height="300px" /></a> |
+<a href="https://t.me/Wolf2901"><img src="(https://te.legra.ph/file/18149587e5ffa19a19b33.jpg)" width="700px" height="300px" /></a> 
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 
 |       **[Silent Smile](https://t.me/Silent_Smile_04)**                                                                                |
 
-| <a href="https://t.me/Silent_Smile_04"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="100px" height="100px"></a> <a href="https://www.instagram.com/silent__smile__04"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="100px" height="100px"></a>                                                                                                                                                                                                                     
+| <a href="https://t.me/Silent_Smile_04"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="100px" height="100px"> |
+| a href="https://www.instagram.com/silent__smile__04"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="100px" height="100px"> |
 
 ## 📊 &nbsp;About Me
   
@@ -94,5 +95,8 @@ I created these images, feel free to use them.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wolf2901&repo=SilentXMusic&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Wolf2901/SilentXMusic) 
 &nbsp;
 ``````
+<p>
+  <a href="https://open.spotify.com/user/o23dqorxrtubizydft2r2g0w0"><img src="https://spotify-ecfdkhmsv-notreallyshikhar.vercel.app/api/spotify"/></a>
+</p>
 ---
 
