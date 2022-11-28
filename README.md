@@ -34,11 +34,12 @@ You can use the website to generate badges: https://shields.io/
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-<a href="https://t.me/Wolf2901"><img src="(https://te.legra.ph/file/18149587e5ffa19a19b33.jpg)" width="700px" height="300px" /></a> 
+<a href="https://t.me/Wolf2901"><img src="(https://te.legra.ph/file/18149587e5ffa19a19b33.jpg)> </a> 
 
-      **[Silent Smile](https://t.me/Silent_Smile_04)**                                                                                
+|      **[Silent Smile](https://t.me/Silent_Smile_04)**      |                                                                                
 
 | <a href="https://t.me/Silent_Smile_04"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="100px" height="100px"> |
+|      **[Silent Smile](https://www.instagram.com/silent__smile__04)**      |
 | <a href="https://www.instagram.com/silent__smile__04"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="100px" height="100px"> |
 
 ## 📊 &nbsp;About Me
