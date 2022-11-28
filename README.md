@@ -93,10 +93,9 @@ I created these images, feel free to use them.
 ## 🖥 &nbsp;Past work
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wolf2901&repo=SilentXMusic&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Wolf2901/SilentXMusic) 
-&nbsp;
-``````
+
+   
 <p>
   <a href="https://open.spotify.com/user/o23dqorxrtubizydft2r2g0w0"><img src="https://spotify-ecfdkhmsv-notreallyshikhar.vercel.app/api/spotify"/></a>
 </p>
----
 
