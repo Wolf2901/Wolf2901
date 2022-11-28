@@ -36,7 +36,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **Who I Am:**
   
-- 🚶‍ &nbsp; I live in : INDIAN   <br>
+- 🚶‍ &nbsp; I live in : INDIA   <br>
 - 👀 I’m interested in ... 👉 Medical
 - 🌱 I’m currently learning ...Python
 - 💞️ My Carrier ... Upper Wala Jana 
